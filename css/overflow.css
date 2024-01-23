@@ -1,6 +1,6 @@
 div {
   width: 100px;
   height: 100px;
-  overflow: visible;
+  overflow: scroll;
   border: 1px solid red;
 }
